@@ -1,3 +1,5 @@
+pip install python-dotenv
+
 from dotenv import load_dotenv
 load_dotenv() ## loading all the environment variables
 
